@@ -13,4 +13,8 @@ I want the hours and hours I can spend configuring applications to my exact desi
 # Use
 
 1. Install linux and docker
-1. Run deco `curl deco.jbm.bz/v0/start.sh | sh`
+1. Run deco `curl deco.ops.delivery/v0/start | sh`
+
+# Version
+
+`0.whatever` No promises. Everything will change.
