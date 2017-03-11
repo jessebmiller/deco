@@ -17,4 +17,4 @@ I want the hours and hours I can spend configuring applications to my exact desi
 
 # Version
 
-`0.whatever` No promises. Everything will change.
+`0.whatever` No promises. Nothing works. Everything will change.
