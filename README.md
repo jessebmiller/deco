@@ -1,2 +1,2 @@
 # Deco
-A Desktop made out of Containers.
+A Desktop made out of Containers
